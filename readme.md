@@ -28,7 +28,7 @@
 
 # Video
 
-<img src="/The Player.mp4" max-width="100%" height="auto" >
+<video max-width="100%" height="auto" controls> <source src="/The Player.mp4" type="video/mp4"> </video>
 
 # Contributing
 
