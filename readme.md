@@ -26,11 +26,9 @@
 <img src="/player.gif" max-width="100%" height="auto" >
 
 
-# Viewing the Project Online
+# Video
 
-You can view this project online by visiting the Netlify deployment.
-
-<a href="https://alisangulerplayer.netlify.app/"> Click Here </a>
+<img src="/The Player.mp4" max-width="100%" height="auto" >
 
 # Contributing
 
