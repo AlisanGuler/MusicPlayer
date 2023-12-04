@@ -28,7 +28,7 @@
 
 # Video
 
-<video max-width="100%" height="auto" controls> <source src="/The Player.mp4" type="video/mp4"> </video>
+<video src="https://github.com/AlisanGuler/MusicPlayer/assets/143933635/94f6e97d-9944-492c-b073-f20c2e05a49c"></video>
 
 # Contributing
 
